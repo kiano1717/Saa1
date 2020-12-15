@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "34002426928",
+    "firebase_url": "https://flutterbloc-7664e.firebaseio.com",
+    "project_id": "flutterbloc-7664e",
+    "storage_bucket": "flutterbloc-7664e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34002426928:android:dee194f6454902b3fee1f5",
+        "android_client_info": {
+          "package_name": "com.example.bloc_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34002426928-ikima8778tff6kqjsftk89h3v4dm5bjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbKuafWJHVYnKjG-FyJASKJi9iKBkgBJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34002426928-ikima8778tff6kqjsftk89h3v4dm5bjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
